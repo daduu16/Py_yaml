@@ -1,0 +1,3 @@
+driver_path: "D:/chromedriver.exe"
+base_url: "https://userinyerface.com/game.html"
+wait_time: 5
